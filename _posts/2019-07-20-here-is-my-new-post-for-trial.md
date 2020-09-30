@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: Levi's - where you'll find the best jeans
 date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
+header_feature_image: ../uploads/levis-logo-quer.svg.png
 caption: Cobbles
+comments: true
 ---
 
 This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
