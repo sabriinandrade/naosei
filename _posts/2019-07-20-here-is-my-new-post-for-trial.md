@@ -1,48 +1,25 @@
 ---
 layout: post
-title: Here is a blog post sample
+title: Levi's - The Clothing Brand that Sells the Best Jeans
 date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+header_feature_image: ../uploads/levis-logo-quer.svg.png
+caption: ""
+comments: true
 ---
+Levi’s is the oldest clothing brand in the USA it was founded in 1872 by Levi Strauss, a German immigrant in the USA. At the time he worked as a gold miner, but he decided to change his lifestyle and had the brilliant idea of start selling special clothes for the gold diggers. The clothes had to be made with a special fabric to achieve the gold diggers’ needs, it had to be strong and durable. And it was at that point that Levi’s emerged. When someone thinks about a pair of jeans, immediately comes to mind a pair of 501s. These pants are stored with history, as being the original blue jeans, and being in the market for so long, it would be normal that people like Kanye, my dad, my school teachers and Steve Jobs collect a pair of these jeans in their wardrobe. Besides having an amazing material, detailed construction and being durable is the Two Horse, Red Tab and Batwing Logo that instantly evidences the authentic pair of Levi’s.
 
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+In 1886, Levi’s began to being recognized by their Two Horse logo. It consisted of having two horses, each pulling in the opposite direction, tearing the jeans in half but showing that the jeans would not rip apart, emphasising the quality of their brand. They were a company with pride, heritage and innovation. Another good reason for them to use this logo, was because they were aware that not all of their costumers spoke English as their first language or that even the ones that did, were not literate. The image of the two horses became memorable and people went to local stores and ask for “those pants with the two horses”, and they would buy a pair of Levi’s jeans.
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+![](../uploads/levis-logo-history-01.jpg)
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+The red colour has always been present in Levi’s presentation as a brand, it demonstrates passion and excitement, young and playful. It also gives a sense of energy and comfort. The typography used in this specific logo consists in capital letters, all in white, with the name of the brand in bold and “quality” and “clothing” bigger than the rest of the other words, to demonstrate the goal of the brand.
+
+In 1936, rivals started to imitate Levi’s jeans so the brand decided to sew a little Red Tab at the back pocket to distinguish from imitations. And the Levi’s began to being recognized by their Batwing logo with big capital white letters, excluding the letter “e” that is always written in lowercase, which at the time seemed to be a courageous decision.
 
 
-![Here is a book](../uploads/pages.jpg)
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+![](../uploads/levis-logo-history-02.jpg)
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
+The batwing format represents the back pockets of their iconic jeans. Levi’s logo and typography are untouchable and bring a legacy to the brand. 
 
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
-
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
-
-## Here is a an image
-
-![Wooden Type](../uploads/log.jpg)
-
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
-
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
-
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+Anyone can recognize a pair of jeans from Levi’s, it made a mark in the fashion world, not only for their commitment to quality and being worried about their costumers but also because it made an impact back when it was created and it continuous of doing that until today.
