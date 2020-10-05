@@ -8,7 +8,7 @@ header_feature_image: ../uploads/52863988_2497573333604190_446946747931951104_n.
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 ## About Me
 
