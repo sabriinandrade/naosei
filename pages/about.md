@@ -4,7 +4,7 @@ title: About
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/52863988_2497573333604190_446946747931951104_n.jpg
+header_feature_image: ""
 published: true
 tags: null
 description: null
@@ -24,4 +24,4 @@ My landing imagine is composed by my banner and my logo. The banner has a black 
 
  The logo is just the bold, red, capital letters "ST" that stands for "StyleType", with the same background used in the banner to keep everything with the same theme and atmosphere.
 
-![](../uploads/st-1-.png)
+![](../uploads/st.png)
