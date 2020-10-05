@@ -2,7 +2,7 @@
 layout: post
 title: Calvin Klein - History and Typography
 date: 2020-10-05T21:29:45.023Z
-header_feature_image: ../uploads/brand-logo-calvin-klein.png
+header_feature_image: ../uploads/calvin-klein-logo-vector.png
 comments: true
 ---
 It’s normal to see an advertisement with beautiful models using Calvin Klein underwear, and everyone that sees it, wants to wear it, that’s the power that Calvin Klein has over people. Which is a good thing, and they know it. Using Calvin Klein gives you a feeling of being sexy and belonging to a certain club of people. But when did all of this started? How did this brand achieve this status?
