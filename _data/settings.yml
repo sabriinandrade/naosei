@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Sabrina Andrade
 header_feature_image: ../uploads/styletype.png
 bannerheight: 20vmax
 logo: ../uploads/s.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/android-chrome-192x192.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
