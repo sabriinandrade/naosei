@@ -22,6 +22,6 @@ My landing imagine is composed by my banner and my logo. The banner has a black 
 
 ![](../uploads/styletype.png)
 
- The logo is just the bold, red, capital letters "ST" that stands for "StyleType", with the same background used in the banner to keep everything with the same theme and atmosphere.
+ The logo is just the bold, red, capital letters "ST" that stands for "StyleType", with the same font and red colour to keep everything with the same theme and atmosphere.
 
 ![](../uploads/s.png)
