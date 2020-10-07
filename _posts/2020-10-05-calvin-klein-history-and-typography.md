@@ -15,15 +15,15 @@ He launched women’s lingerie and after a while, he began to sell also menswear
 
 Calvin Klein logo is iconic and unique. It shows the brand identity. The typography of the logo changed during the years of its existence. In 1968 the logo was created, and it was used like that until 1975. It consisted of having the simple name “Calkin Klein” written on it, in black, the “C” and “K” as capital letters, in a thinner and stylish font, no serifs. It showed the brand sophistication, elegance and authority. With their typography, they demonstrated confidence and power. Something to be remembered of.
 
-![1968-1975](../uploads/calvin-klein-logo-1968-1975.png)
+![1968-1975](../uploads/calvin-klein-logo-1968-1975-1-.png)
 
 Between 1975 and 1992 the typography was updated. Some little changes happened like the letters had a bigger contrast, became semibold and the height of the lowercase “I”, “l” and the capital “C”, “k” is the same.
 
-![1975-1992](../uploads/calvin-klein-logo-1975-1992.png)
+![1975-1992](../uploads/calvin-klein-logo-1975-1992-1-.png)
 
 During the period of 1992 and 2017, the letters became thinner and even though the style changed, the font remained the same. Another difference was that the dot above the “i” became a rectangle. A subtle change was also made in the space between the letters, they became a little bit more separated from each other.
 
-![1992-2017](../uploads/calvin-klein-logo-1992-2017.png)
+![1992-2017](../uploads/calvin-klein-logo-1992-2017-1-.png)
 
 In 2017 the brand redesigned their typography completely. All letters were changed to upper case, they became thicker and stronger. The designer of the logo wanted to return the brand spirit to the original way that it was when Calvin Klein was founded. In addition to having incredible typography and recognized in every place, the brand has also its abbreviation “CK”, that it’s now used in everyday life.
 
