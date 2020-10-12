@@ -4,7 +4,7 @@ title: About
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ""
+header_feature_image: ../uploads/alex-blajan-vngl14-v5ty-unsplash.jpg
 published: true
 tags: null
 description: null
