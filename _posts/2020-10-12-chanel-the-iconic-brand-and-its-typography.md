@@ -2,7 +2,7 @@
 layout: post
 title: Chanel - The ICONIC brand and its typography
 date: 2020-10-12T15:15:48.651Z
-header_feature_image: ../uploads/b207d339-d237-415c-9763-b8f80bf01052.jpg
+header_feature_image: ../uploads/285ae28217336d0a925481efddcaef29.jpg
 comments: true
 ---
 Coco Chanel was one of the first designers to stop following fashion tendencies. She was determinate to change the fashion industry of her time. She believed that clothing should be comfortable, with perfectly designed lines and stressing shapes. Her new vision about the fashion world was the key point to her success.
