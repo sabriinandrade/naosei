@@ -4,7 +4,7 @@ title: About
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ""
+header_feature_image: ../uploads/261e29c8-8699-4b50-9734-2823263c0638.jpg
 published: true
 tags: null
 description: null
