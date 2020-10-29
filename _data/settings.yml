@@ -9,3 +9,6 @@ favicon: ../uploads/android-chrome-192x192.png
 gridlayout: true
 fixednavbar: false
 upzoom: true
+items:
+  - name: About me
+    siteurl: /aboutme
