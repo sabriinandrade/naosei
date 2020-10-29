@@ -1,7 +1,133 @@
 body {
+  font-family: Georgia
 
 }
 
-h1 {
-  
+html {
+  box-sizing: border-box;
+
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column{
+  float:left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.photo{
+  width: 32.3%;
+  display: table;
+  float: right;
+  padding-left: 5px;
+
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about{
+  padding: 40px;
+  text-align: center;
+  color: #FF7171;
+  font-family: Lucida;
+  font-size: 25px;
+
+}
+
+.title{
+  padding: 10px;
+  text-align: center;
+  color: #FFBBBB;
+  font-family: Lucida;
+  font-size: 20px;
+}
+
+
+.container{
+  padding: 0 16px;
+}
+
+.container::after, .row::after{
+  content:"";
+  clear: both;
+  display: table;
+}
+
+
+.favourite{
+  background-color: #FFAEAE;
+  font-family: Lucida Console;
+  color: white;
+  padding-top: 0px;
+  text-align: center;
+  display: table;
+}
+
+.booklink{
+  color: white
+}
+
+.songlink{
+  color: white
+}
+
+.tell_me_section {
+	background-color: white;
+	width: 100%;
+}
+
+.learned_text {
+	text-align: center;
+	color: #FF7171;
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 50px;
+  font-family: Lucida;
+
+	max-width: 500px;
+	margin: 0 auto 0 auto;
+	padding: 100px 15px 15px;
+}
+
+.tell_me_link {
+  float: left;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-weight: 100;
+	line-height: 10px;
+  font-family: Lucida;
+
+	padding: 5px;
+	margin: inherit;
+	padding-bottom: 5px;
+	padding-top: 30px;
+  padding-left: 150px;
+  padding-right: 50px;
+}
+
+.tell_me_link a {
+	color: #FFBBBB;
+	text-decoration: none;
+	border: #FF64A3 2px solid;
+	border-radius: 5px;
+
+	padding: 10px 30px 10px 30px;
+}
+
+.tell_me_link a:hover {
+	color: #F74646;
+	background-color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
 }
