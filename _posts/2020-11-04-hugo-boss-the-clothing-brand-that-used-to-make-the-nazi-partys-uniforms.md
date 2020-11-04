@@ -2,7 +2,7 @@
 layout: post
 title: Hugo Boss - The clothing brand that used to make the Nazi Party's uniforms
 date: 2020-11-04T14:56:14.210Z
-header_feature_image: ../uploads/bd0f38ff987606b0b764e620b0ad9cbb.jpg
+header_feature_image: ../uploads/d5f25ba80c384e83c4fcae20fe63ef1c.jpg
 comments: true
 ---
 “Hugo Boss” is a name that implies images of high fashion, elegance and luxury. But what is the brand history? And it’s legacy? And what its typography says about it?
