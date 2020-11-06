@@ -4,7 +4,7 @@ header_text: ""
 footer_text: Copyright 2020 Sabrina Andrade
 header_feature_image: ../uploads/bannerimage4.png
 bannerheight: 20vmax
-logo: ../uploads/s.png
+logo: ../uploads/logo.png
 favicon: ../uploads/android-chrome-192x192.png
 gridlayout: false
 fixednavbar: false
