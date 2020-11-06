@@ -2,10 +2,10 @@ title: Clothing Brand Typography
 description: ""
 header_text: ""
 footer_text: Copyright 2020 Sabrina Andrade
-header_feature_image: ../uploads/styletype.png
+header_feature_image: ../uploads/bannerimage4.png
 bannerheight: 20vmax
-logo: ../uploads/s.png
-favicon: ../uploads/android-chrome-192x192.png
+logo: ../uploads/logo.png
+favicon: ../uploads/logo.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
